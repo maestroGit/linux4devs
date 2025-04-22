@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seguridad/Ulimit.md",
+                "file": "practica/Bones pràctiques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulimit"
+              "title": "Bones pràctiques"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a39ed911cc563d85",
@@ -170,43 +170,43 @@
   },
   "active": "ecdb96ddaa5fb74e",
   "lastOpenFiles": [
-    "seguridad/AppArmor.md",
-    "seguridad/Ulimit.md",
-    "firewall/IPTables.md",
-    "seguridad",
-    "firewall/Guia d'UFW (Uncomplicated Firewall).md",
-    "editores/Guia Bàsica de NeoVim amb LazyVim.md",
-    "firewall",
-    "systemd/Services.md",
-    "Index.md",
+    "comandos/sftp.md",
+    "practica/Bones pràctiques.md",
+    "comandos/scp.md",
+    "comandos/sed.md",
+    "comandos/rsync.md",
+    "seguridad/Xifratge SSH.md",
+    "comandos/fdisk.md",
+    "comandos/ssh.md",
+    "practica/Configuració completa.md",
+    "otras shells",
+    "comandos/ln.md",
+    "comandos/unlink.md",
+    "systemd/Error distrobox shared mount.md",
+    "systemd/Comandes bàsiques​.md",
     "systemd/Qué ès SystemD.md",
     "systemd/Funcionalitats clau​.md",
-    "systemd/Comandes bàsiques​.md",
-    "systemd/Error distrobox shared mount.md",
+    "Index.md",
+    "scripts/Canviar extensions de fitxers.md",
+    "scripts/Backup automàtic d'un directori.md",
+    "scripts/Afegir usuaris des d'un fitxer.md",
     "distrobox/Guia Bàsica de Distrobox.md",
+    "practica",
+    "editores/Guia Bàsica de NeoVim amb LazyVim.md",
+    "firewall/Guia d'UFW (Uncomplicated Firewall).md",
+    "systemd/Services.md",
+    "seguridad/Ulimit.md",
+    "seguridad/AppArmor.md",
+    "firewall/IPTables.md",
+    "seguridad",
+    "firewall",
     "distrobox",
     "editores",
-    "cronjobs/Estructura.md",
-    "cronjobs/Consells clau.md",
-    "cronjobs/Simbols especials.md",
-    "cronjobs/Shortcuts.md",
-    "cronjobs/Comprovar i eliminar tasques​.md",
     "imgs/cron.png",
     "imgs/cron-struct.png",
     "imgs",
     "systemd",
-    "scripts/Menú interactiu per gestió de fitxers​.md",
     "cronjobs",
-    "scripts/Netejar fitxers temporals antics​.md",
-    "scripts/Comptar ocurrències d'un error en logs​.md",
-    "scripts/Afegir usuaris des d'un fitxer.md",
-    "scripts/Monitoritzar l'ús del disc.md",
-    "scripts/Backup automàtic d'un directori.md",
-    "scripts/Canviar extensions de fitxers.md",
-    "comandos/mkdir.md",
-    "comandos/pwd.md",
-    "bash",
-    "scripts",
-    "comandos"
+    "bash"
   ]
 }

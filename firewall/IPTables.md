@@ -14,6 +14,7 @@ Iptables organitza les seves regles en **taules** i **cadenes**:
     - `nat`: S'utilitza per la traducció d'adreces de xarxa (NAT).
     - `mangle`: Per a modificacions especialitzades de paquets.
     - `raw`: S'utilitza principalment per configurar exempcions del seguiment de connexions.
+
 - **Cadenes**: Contenen conjunts de regles dins de cada taula.
     
     - `INPUT`: Per a paquets destinats al sistema local.

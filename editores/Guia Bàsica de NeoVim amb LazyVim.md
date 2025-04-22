@@ -43,9 +43,8 @@ LazyVim és una configuració de NeoVim que facilita el seu ús amb molts plugin
 
 ## Gestió de Pestanyes (Tabs)
 
-- `<espai>bb` - Veure tots els buffers
-- `<espai>bn` - Anar al següent buffer
-- `<espai>bp` - Anar al buffer anterior
+- `<espai>fb` - Veure tots els buffers
+- `<espai>bb` - Anar al buffer anterior
 - `<espai>bd` - Tancar el buffer actual
 
 ## Explorador de Fitxers
@@ -62,7 +61,7 @@ LazyVim és una configuració de NeoVim que facilita el seu ús amb molts plugin
 
 - `<espai>ff` - Cercar fitxers
 - `<espai>fg` - Cercar text a tots els fitxers
-- `<espai>/` - Cercar dins del fitxer actual
+- `<espai>/` - Cercar amb grep a tots els fitxers
 - `n` - Anar a la següent coincidència
 - `N` - Anar a l'anterior coincidència
 

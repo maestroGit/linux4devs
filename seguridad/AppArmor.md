@@ -35,7 +35,7 @@ Si no està instal·lat o ha estat desactivat, pots instal·lar-lo i activar-lo 
 
 ```bash
 sudo apt update
-sudo apt install apparmor apparmor-utils
+sudo apt install apparmor apparmor-utils apparmor-profiles
 sudo systemctl enable apparmor
 sudo systemctl start apparmor
 ```

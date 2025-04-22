@@ -63,7 +63,7 @@ Per canviar el nombre màxim de fitxers oberts per a la sessió actual:
 ulimit -n 4096
 
 # Establir límit dur (necessita privilegis de root)
-ulimit -Hn 4096
+sudo ulimit -Hn 4096
 ```
 
 On:

@@ -20,6 +20,11 @@ RemainAfterExit=yes
 WantedBy=multi-user.target
 ```
 
+Path:
+```bash
+/etc/systemd/system/mount-rshared.service
+```
+
 Enable:
 ```bash
 sudo systemctl enable mount-rshared.service
