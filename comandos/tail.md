@@ -1,4 +1,3 @@
-# tail
 
 La comanda `tail` s'utilitza en sistemes Unix i Linux per mostrar la part final (la "cua") d'un o més fitxers. Per defecte, mostra les últimes 10 línies.
 

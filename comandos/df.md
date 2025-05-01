@@ -1,4 +1,3 @@
-# df (diskfree)
 
 La comanda `df` (disk free) s'utilitza per mostrar l'espai de disc utilitzat i disponible als sistemes de fitxers del sistema operatiu Linux.
 

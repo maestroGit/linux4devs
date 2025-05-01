@@ -1,4 +1,3 @@
-# uniq
 
 El comandament `uniq` s'utilitza per filtrar o informar sobre línies adjacents repetides en un fitxer. Normalment, rep una entrada ordenada (sovint la sortida del comandament `sort`) i, per defecte, escriu la versió filtrada a la sortida estàndard, on cada línia apareix només una vegada.
 

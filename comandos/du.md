@@ -1,4 +1,3 @@
-# du (Disk Usage)
 
 La comanda `du` (de l'anglès _disk usage_) s'utilitza per estimar i mostrar l'espai de disc utilitzat per fitxers i directoris. Forma part del paquet `coreutils`.
 

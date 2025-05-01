@@ -1,4 +1,3 @@
-# sort
 
 La comanda `sort` s'utilitza en sistemes Unix/Linux per ordenar les línies d'un fitxer de text o de l'entrada estàndard. Per defecte, ordena alfabèticament.
 

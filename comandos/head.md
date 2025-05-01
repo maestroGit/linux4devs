@@ -1,5 +1,3 @@
-# head
-
 ## Descripció
 
 La comanda `head` s'utilitza en sistemes operatius Unix-like per mostrar les primeres línies d'un o més fitxers de text. Per defecte, mostra les primeres 10 línies.

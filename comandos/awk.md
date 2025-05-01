@@ -1,4 +1,3 @@
-# awk
 
 `awk` és una potent eina de processament de text i llenguatge de programació interpretat disponible a sistemes Unix i Linux. S'utilitza principalment per escanejar fitxers línia per línia, dividir cada línia en camps i realitzar accions sobre aquests camps o línies que compleixen certs patrons.
 

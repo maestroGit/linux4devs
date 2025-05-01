@@ -1,5 +1,3 @@
-# sed
-
 `sed` (Stream Editor) és una potent utilitat de línia de comandes a Linux i altres sistemes Unix-like que s'utilitza per realitzar transformacions bàsiques de text en un flux d'entrada (un fitxer o l'entrada d'una altra comanda). Funciona línia per línia i és especialment útil per a substitucions de text, eliminacions i altres manipulacions.
 
 ## Sintaxi Bàsica

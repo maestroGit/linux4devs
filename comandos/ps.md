@@ -1,4 +1,3 @@
-# ps (process status)
 
 La comanda `ps` (process status) s'utilitza per mostrar informació sobre els processos que s'estan executant actualment al sistema.
 
