@@ -78,7 +78,6 @@ Pots executar una comanda en **segon pla (background)** afegint un `&` al final:
 comanda_llarga &
 ```
 
-```
 
 La terminal et mostrarà el PID del nou procés en segon pla i et tornarà el prompt immediatament, permetent-te continuar treballant.
 
@@ -97,4 +96,3 @@ El sistema operatiu assigna temps de CPU als processos segons la seva prioritat.
 - `renice <valor> -p <PID>`: Canvia la prioritat d'un procés ja en execució.
   - `renice 15 -p 1234` # Baixa la prioritat del procés amb PID 1234
   - `sudo renice -5 -p 5678` # Augmenta la prioritat (requereix `sudo`)
-```
