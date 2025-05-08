@@ -27,6 +27,7 @@
 - [ln](comandos/ln.md)
 - [ls](comandos/ls.md)
 - [mkdir](comandos/mkdir.md)
+- [mount](comandos/mount.md)
 - [mv](comandos/mv.md)
 - [ps](comandos/ps.md)
 - [pwd](comandos/pwd.md)
@@ -85,6 +86,7 @@
 ## Seguretat
 
 - [AppArmor](seguridad/AppArmor.md)
+- [Permisos](seguridad/Permisos.md)
 - [Ulimit](seguridad/Ulimit.md)
 - [Xifratge SSH](seguridad/Xifratge%20SSH.md)
 
