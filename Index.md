@@ -135,6 +135,10 @@
 - [Bones pràctiques](practica/Bones%20pràctiques.md)
 - [Configuració completa](practica/Configuració%20completa.md)
 
+## Procesos
+
+- [Procesos](procesos/procesos.md)
+
 ## Scripts
 
 - [Afegir usuaris des d'un fitxer](scripts/Afegir%20usuaris%20des%20d'un%20fitxer.md)
@@ -159,7 +163,6 @@
 - [licencias](sistema/licencias.md)
 - [lvm](sistema/lvm.md)
 - [ntp](sistema/ntp.md)
-- [procesos](sistema/procesos.md)
 - [procfs](sistema/procfs.md)
 - [runlevels](sistema/runlevels.md)
 - [swap](sistema/swap.md)
