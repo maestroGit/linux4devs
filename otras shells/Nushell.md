@@ -78,7 +78,7 @@ ls
 | where type == "file"  
 | sort-by mida --reverse  
 | first 5  
-| select nom mida  
+| select name size  
 ```
 _Explicació_:
 
