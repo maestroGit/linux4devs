@@ -4,10 +4,7 @@
 
 ## Bash
 
-<<<<<<< HEAD
-=======
 - [Alias](bash/alias.md)
->>>>>>> f6912d2109c243dc630c7a950e9ca120a0c5f243
 - [Bucles for i while](bash/bucles%20for%20y%20while.md)
 - [Condicionals if-else](bash/condicionals%20if-else.md)
 - [Funcions](bash/funcions.md)
@@ -31,7 +28,6 @@
 - [chsh](comandos/chsh.md)
 - [comm](comandos/comm.md)
 - [cp](comandos/cp.md)
-<<<<<<< HEAD
 - [date](comandos/date.md)
 - [df](comandos/df.md)
 - [dig](comandos/dig.md)
@@ -54,20 +50,17 @@
 - [join](comandos/join.md)
 - [kill](comandos/kill.md)
 - [killall](comandos/killall.md)
-=======
 - [cut](comandos/cut.md)
 - [df](comandos/df.md)
 - [du](comandos/du.md)
 - [grep](comandos/grep.md)
 - [head](comandos/head.md)
->>>>>>> f6912d2109c243dc630c7a950e9ca120a0c5f243
 - [ln](comandos/ln.md)
 - [ls](comandos/ls.md)
 - [lsblk](comandos/lsblk.md)
 - [lsof](comandos/lsof.md)
 - [mkdir](comandos/mkdir.md)
 - [mount](comandos/mount.md)
-<<<<<<< HEAD
 - [mpstat](comandos/mpstat.md)
 - [mv](comandos/mv.md)
 - [netstat](comandos/netstat.md)
@@ -77,9 +70,7 @@
 - [ping](comandos/ping.md)
 - [pipelines](comandos/pipelines.md)
 - [pkill](comandos/pkill.md)
-=======
 - [mv](comandos/mv.md)
->>>>>>> f6912d2109c243dc630c7a950e9ca120a0c5f243
 - [ps](comandos/ps.md)
 - [pwd](comandos/pwd.md)
 - [renice](comandos/renice.md)
@@ -93,7 +84,6 @@
 - [setfacl](comandos/setfacl.md)
 - [sftp](comandos/sftp.md)
 - [sort](comandos/sort.md)
-<<<<<<< HEAD
 - [ss](comandos/ss.md)
 - [ssh](comandos/ssh.md)
 - [sudo](comandos/sudo.md)
@@ -106,10 +96,6 @@
 - [tune2fs](comandos/tune2fs.md)
 - [umask](comandos/umask.md)
 - [uname](comandos/uname.md)
-=======
-- [ssh](comandos/ssh.md)
-- [tail](comandos/tail.md)
->>>>>>> f6912d2109c243dc630c7a950e9ca120a0c5f243
 - [uniq](comandos/uniq.md)
 - [unlink](comandos/unlink.md)
 - [useradd](comandos/useradd.md)
@@ -166,7 +152,6 @@
 - [Ulimit](seguridad/Ulimit.md)
 - [Xifratge SSH](seguridad/Xifratge%20SSH.md)
 
-<<<<<<< HEAD
 ## Sistema
 
 - [fstab](sistema/fstab.md)
@@ -178,14 +163,13 @@
 - [procfs](sistema/procfs.md)
 - [runlevels](sistema/runlevels.md)
 - [swap](sistema/swap.md)
-=======
+
 ## Sistema de fitxers
 
 - [btrfs](filesystem/btrfs.md)
 - [ext4](filesystem/ext4.md)
 - [xfs](filesystem/xfs.md)
 - [particions](filesystem/particions.md)
->>>>>>> f6912d2109c243dc630c7a950e9ca120a0c5f243
 
 ## Systemd
 
